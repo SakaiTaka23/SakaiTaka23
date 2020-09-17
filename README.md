@@ -11,7 +11,6 @@
     * EIKEN : Grade Pre-1
 
 <br>
-<br>
 
 ### Programming Languages:
 <img align="left" alt="php" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" /> 
@@ -21,8 +20,8 @@
 <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> 
 
 <br>
-<br>
 
+### Recent Activities:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com//SakaiTaka23/githubmastercheck/pull/4) in [SakaiTaka23/githubmastercheck](https://github.com//SakaiTaka23/githubmastercheck)
 2. ❗️ Closed issue [#1](https://github.com//SakaiTaka23/githubmastercheck/issues/1) in [SakaiTaka23/githubmastercheck](https://github.com//SakaiTaka23/githubmastercheck)
@@ -31,6 +30,9 @@
 5. ❗️ Opened issue [#1](https://github.com//SakaiTaka23/githubmastercheck/issues/1) in [SakaiTaka23/githubmastercheck](https://github.com//SakaiTaka23/githubmastercheck)
 <!--END_SECTION:activity-->
 
+<br>
+
+### GitHub Stats
 [![](https://raw.githubusercontent.com/SakaiTaka23/SakaiTaka23/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SakaiTaka23/SakaiTaka23/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SakaiTaka23/SakaiTaka23/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
