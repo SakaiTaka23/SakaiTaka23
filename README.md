@@ -23,11 +23,11 @@
 
 ### Recent Activities:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SakaiTaka23/OrganizeNote-ver2/pull/1) in [SakaiTaka23/OrganizeNote-ver2](https://github.com/SakaiTaka23/OrganizeNote-ver2)
-2. 🎉 Merged PR [#8](https://github.com/SakaiTaka23/chase/pull/8) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
-3. 💪 Opened PR [#8](https://github.com/SakaiTaka23/chase/pull/8) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
-4. 🎉 Merged PR [#7](https://github.com/SakaiTaka23/chase/pull/7) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
-5. 💪 Opened PR [#7](https://github.com/SakaiTaka23/chase/pull/7) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
+1. 🎉 Merged PR [#1](https://github.com/SakaiTaka23/OrganizeNote-ver2/pull/1) in [SakaiTaka23/OrganizeNote-ver2](https://github.com/SakaiTaka23/OrganizeNote-ver2)
+2. 💪 Opened PR [#1](https://github.com/SakaiTaka23/OrganizeNote-ver2/pull/1) in [SakaiTaka23/OrganizeNote-ver2](https://github.com/SakaiTaka23/OrganizeNote-ver2)
+3. 🎉 Merged PR [#8](https://github.com/SakaiTaka23/chase/pull/8) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
+4. 💪 Opened PR [#8](https://github.com/SakaiTaka23/chase/pull/8) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
+5. 🎉 Merged PR [#7](https://github.com/SakaiTaka23/chase/pull/7) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
 <!--END_SECTION:activity-->
 
 <br>
