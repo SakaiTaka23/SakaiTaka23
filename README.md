@@ -17,20 +17,19 @@
 <img align="left" alt="laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" /> 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
 <img align="left" alt="django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> 
+<img align="left" alt="go" width="30px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /> 
+<img align="left" alt="mysql" width="30px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="docker" width="30px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+
 
 <br>
 
-### Recent Activities:
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SakaiTaka23/OrganizeNote-ver2/pull/1) in [SakaiTaka23/OrganizeNote-ver2](https://github.com/SakaiTaka23/OrganizeNote-ver2)
-2. 💪 Opened PR [#1](https://github.com/SakaiTaka23/OrganizeNote-ver2/pull/1) in [SakaiTaka23/OrganizeNote-ver2](https://github.com/SakaiTaka23/OrganizeNote-ver2)
-3. 🎉 Merged PR [#8](https://github.com/SakaiTaka23/chase/pull/8) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
-4. 💪 Opened PR [#8](https://github.com/SakaiTaka23/chase/pull/8) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
-5. 🎉 Merged PR [#7](https://github.com/SakaiTaka23/chase/pull/7) in [SakaiTaka23/chase](https://github.com/SakaiTaka23/chase)
-<!--END_SECTION:activity-->
 
-<br>
 
 ### GitHub Stats
 [![](https://raw.githubusercontent.com/SakaiTaka23/SakaiTaka23/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
