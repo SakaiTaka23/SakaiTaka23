@@ -8,6 +8,7 @@
     "Docker",
     "Firebase",
     "Go",
+    "GraphQL",
     "Grpc-Web",
     "Grpc",
     "JWT",
@@ -15,7 +16,7 @@
     "PHP(Laravel)",
     "Python(Django and others)",
     "React(Next.js)",
-    "TypeScript"
+    "TypeScript(Nest.js)"
   ]
 }
 ```
