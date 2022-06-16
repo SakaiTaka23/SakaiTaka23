@@ -31,6 +31,6 @@
 
 ### Dev Cards
 
-<a href="https://app.daily.dev/DailyDevTips">
+<a href="https://app.daily.dev/fumi">
   <img src="https://github.com/SakaiTaka23/SakaiTaka23/blob/master/devcard.svg" width="400" alt="SakaiTaka23's Dev Card"/>
 </a>
